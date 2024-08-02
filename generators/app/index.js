@@ -12,10 +12,8 @@ class Bannertime extends Generator {
   constructor(...args) {
     super(...args);
 
-    this.argument('name', {
-      required: false,
-      type: String
-    });
+
+    
 
     this.option('skip-install', {
       defaults: false,

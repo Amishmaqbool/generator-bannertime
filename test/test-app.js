@@ -12,7 +12,7 @@ describe('The Bannertime', () => {
         bannerName: 'test',
         bannerDesc: 'Its Duncan Bannertime!',
         bannerType: 'DoubleClick Studio',
-        bannerRepo: 'https://github.com/bannertime/generator-bannertime',
+        bannerRepo: 'https://github.com/Amishmaqbool/generator-bannertime.git',
         includeTimeline: false,
         includeOfflineScripts: false
       };
