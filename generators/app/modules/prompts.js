@@ -29,7 +29,7 @@ module.exports = function prompts() {
     type: 'input',
     name: 'bannerRepo',
     message: 'What is the link to the repository?',
-    default: 'https://github.com/bannertime/generator-bannertime'
+    default: 'https://github.com/Amishmaqbool/generator-bannertime.git'
   }, {
     when: response => response.bannerType === 'Studio (formerly Doubleclick Studio)',
     type: 'confirm',

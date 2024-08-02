@@ -1,9 +1,9 @@
 {
 	"name": "generator-bannertime",
-	"version": "3.1.5",
+	"version": "3.1.6",
 	"description": "Yeoman generator for creating HTML5 advertising campaigns",
-	"homepage": "https://github.com/bannertime/generator-bannertime",
-	"bugs": "https://github.com/bannertime/generator-bannertime/issues",
+	"homepage": "https://github.com/Amishmaqbool/generator-bannertime.git",
+	"bugs": "https://github.com/Amishmaqbool/generator-bannertime.git/issues",
 	"author": "Jay Campbell <jay@pyramidium.co.uk> (https://github.com/pyramidium)",
 	"contributors": [
 		"Joey Padasian <joey.padasian@jellyfish.com> (https://github.com/joemidi)",
@@ -11,7 +11,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bannertime/generator-bannertime.git"
+		"url": "git+https://github.com/Amishmaqbool/generator-bannertime.git"
 	},
 	"engines": {
 		"node": "^10.0.0"
@@ -52,6 +52,6 @@
 		"semver": "^5.7.1",
 		"yeoman-assert": "^3.1.1",
 		"yeoman-test": "^1.9.1",
-    "gulp": "^4.0.0"
+		"gulp": "^4.0.0"
 	}
 }
